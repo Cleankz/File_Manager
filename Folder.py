@@ -30,3 +30,4 @@ class Folder:
     @property
     def folder_contents(self):
         ...
+    # варавптаптавьлангьрпь
